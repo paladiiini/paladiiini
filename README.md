@@ -16,11 +16,11 @@
 
 ## GitHub Statistics
 
-![GitHub Statistics](https://github.com/BlueDeepSea)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=BlueDeepSea&show_icons=true&theme=dark)
 
 ## Programming Languages
 
-![Programming Languages](https://github.com/BlueDeepSea)
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueDeepSea&layout=compact&theme=dark)
 
 ## Acknowledgments
 
