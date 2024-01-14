@@ -16,11 +16,11 @@
 
 ## GitHub Statistics
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paladiini&show_icons=true&theme=dark)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paladiiini&show_icons=true&theme=dark)
 
 ## Programming Languages
 
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paladiini&layout=compact&theme=dark)
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paladiiini&layout=compact&theme=dark)
 
 ## Acknowledgments
 
